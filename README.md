@@ -7,4 +7,7 @@
 ## Membuat Virtual Machine baru
 1. Buka Aplikasi Virtual box
 2. Pilih icon warna biru "New"
-2. 
+3. Ubah:
+   - Name : debian_nama
+   - Type : Linux
+   - Version : Debian(32bit)
