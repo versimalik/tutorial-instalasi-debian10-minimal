@@ -17,3 +17,11 @@
 6. pilih VHD, next
 7. pilih cinamically allocated, next
 8. biarkan 8.00 GB, next
+
+## Setting virtual Machine
+1. pilih virtual machine yang sudah jadi
+2. klik, tombol setting
+3. menu sistem
+   - hilangkan checklist untuk floppy
+   - optical harus ada di urutan pertama
+   - harddisk ada di urutan kedua
