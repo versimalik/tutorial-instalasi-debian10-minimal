@@ -42,7 +42,7 @@ berikut langkahnya,
 2. Pilih ATA VBOX HARDDISK
 3. Create new partition table . . . . ? pilih Yes
 
-### Untuk root file system
+### Partisi #1 Untuk root file system
 1. Pilih FREE SPACE
 2. Pilih Create a New Partition
 3. Ubah jadi 3 GB
@@ -53,7 +53,7 @@ berikut langkahnya,
    - Mount Point : /
 7. Pilih Done Setting 
 
-### Untuk /home
+### Partisi #2 Untuk /home
 1. Pilih FREE SPACE
 2. Pilih Create a New Partition
 3. Ubah jadi 3 GB
@@ -64,7 +64,7 @@ berikut langkahnya,
    - Mount Point : /home
 7. Pilih Done Setting 
 
-### Untuk Swap area
+### Partisi #3 Untuk Swap area
 1. Pilih FREE SPACE
 2. Pilih Create a New Partition
 3. Ubah jadi 2.6 GB
