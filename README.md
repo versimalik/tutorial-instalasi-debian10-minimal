@@ -25,3 +25,49 @@
    - hilangkan checklist untuk floppy
    - optical harus ada di urutan pertama
    - harddisk ada di urutan kedua
+---
+---
+---
+
+## Pastisi Hard disk
+Secara standar Harddisk pada linux akan dibagi menjadi 3 bagian
+- untuk / (root file system)
+- untuk /home
+- untuk swap area
+
+berikut langkahnya,
+1. Pilih manual
+2. Pilih ATA VBOX HARDDISK
+3. Create new partition table . . . . ? pilih Yes
+
+### Untuk root file system
+1. Pilih FREE SPACE
+2. Pilih Create a New Partition
+3. Ubah jadi 3 GB
+4. Pilih Primary
+5. Pilih Beginning
+6. Pastikan:
+   - Use as : Ext4
+   - Mount Point : /
+7. Pilih Done Setting 
+
+### Untuk /home
+1. Pilih FREE SPACE
+2. Pilih Create a New Partition
+3. Ubah jadi 3 GB
+4. Pilih Primary
+5. Pilih Beginning
+6. Pastikan:
+   - Use as : Ext4
+   - Mount Point : /home
+7. Pilih Done Setting 
+
+### Untuk Swap area
+1. Pilih FREE SPACE
+2. Pilih Create a New Partition
+3. Ubah jadi 2.6 GB
+4. Pilih Primary
+5. Pastikan:
+   - Use as : Swap Area
+6. Pilih Done Setting 
+
