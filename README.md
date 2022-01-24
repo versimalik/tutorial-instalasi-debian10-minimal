@@ -5,4 +5,6 @@
 2. File ISO Debian versi 10.11.xx 32 bit
 
 ## Membuat Virtual Machine baru
-1. Pilih icon warna biru "New"
+1. Buka Aplikasi Virtual box
+2. Pilih icon warna biru "New"
+2. 
