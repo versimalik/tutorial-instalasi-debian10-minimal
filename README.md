@@ -16,9 +16,7 @@
 5. Create a Virtual Hard disk, next
 6. pilih VHD, next
 7. pilih cinamically allocated, next
-8. biarkan 8.00 GB, nextExt4
-72
-   - Mount Point : /
+8. biarkan 8.00 GB, next
 
 ## Setting virtual Machine
 1. pilih virtual machine yang sudah jadi
