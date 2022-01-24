@@ -11,3 +11,9 @@
    - Name : debian_nama
    - Type : Linux
    - Version : Debian(32bit)
+   - Next
+4. Memory Size : 1024 MB, Next
+5. Create a Virtual Hard disk, next
+6. pilih VHD, next
+7. pilih cinamically allocated, next
+8. biarkan 8.00 GB, next
